@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdinaValcauan, student in the second year at Technical University of Cluj-Napoca, Faculty of Automation and Computer Science,
  Specialization Systems Engineering, Automation and Applied Informatics
  
-- 👀 I’m interested to develep new skills and deepend my knoledge. I am open to new challenges and oportunities.
+- 👀 I’m interested to develop new skills and deepend my knowledge. I am open to new challenges and oportunities.
 
 - 🌱 I’m currently learning Java and SQL. Also, I am interested in C, C++, HTML + CSS, Autocad, Matlab. I have a passion for the hardware part as well.
 <!--- 💞️ I’m looking to collaborate on ...
