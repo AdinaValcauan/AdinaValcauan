@@ -3,7 +3,7 @@
  
 - 👀 I’m interested to develop new skills and deepend my knowledge. I am open to new challenges and oportunities.
 
-- 🌱 I’m currently learning Java and SQL. Also, I am interested in C, C++, HTML + CSS, Autocad, Matlab. I have a passion for the hardware part as well.
+- 🌱 I have experience in Java, MySQL, HTML+CSS and Matlab. Moreover, I'm currently learning JavaScript and C#. I'm also interested in C, C++ and AutoCAD. Furthermore, I have a passion for the hardware part as well.
 <!--- 💞️ I’m looking to collaborate on ...
 --->
 
@@ -12,7 +12,3 @@
   - phone number: 0753613419
   - LinkedIn account: https://www.linkedin.com/in/adina-diana-valcauan-a1713a215/
 
-<!---
-AdinaValcauan/AdinaValcauan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
