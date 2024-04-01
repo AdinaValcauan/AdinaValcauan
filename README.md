@@ -9,6 +9,5 @@
 
 - 📫 How to reach me:
   - email adress: adina.valcauan@gmail.com
-  - phone number: 0753613419
   - LinkedIn account: https://www.linkedin.com/in/adina-diana-valcauan-a1713a215/
 
