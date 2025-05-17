@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdinaValcauan, a fourth year student at Technical University of Cluj-Napoca, Faculty of Automation and Computer Science,
- Specialization Systems Engineering, Automation and Applied Informatics
+- 👋 Hi, I’m @AdinaValcauan, master's student at Technical University of Cluj-Napoca, Faculty of Automation and Computer Science,
+ Specialization Applied Informatics in Complex Systems Engineering
  
 - 👀 I’m interested to develop new skills and deepend my knowledge. I am open to new challenges and oportunities.
 
