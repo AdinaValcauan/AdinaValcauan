@@ -3,7 +3,7 @@
  
 - 👀 I’m interested to develop new skills and deepend my knowledge. I am open to new challenges and oportunities.
 
-- 🌱 I have experience in Java, React, MySQL, HTML+CSS and Matlab. I'm also interested in C, C++, JavaScript and C#. Furthermore, I have a passion for the hardware part as well.
+- 🌱 I have experience in networking, DeltaV, Java, React, MySQL, HTML+CSS and c#. I'm also interested in C, C++, JavaScript. Furthermore, I have a passion for the hardware part as well.
 <!--- 💞️ I’m looking to collaborate on ...
 --->
 
